@@ -17,11 +17,11 @@ document.addEventListener("keydown", function(event) {
 function makeSound(key) {
   switch (key) {
     case "w":
-     var crash = new Audio("/sounds/crash.mp3");
+     var crash = new Audio("./crash.mp3");
      crash.play();
      break;
     case "a":
-     var kickBass = new Audio('/sounds/kick-bass.mp3');
+     var kickBass = new Audio('/kick-bass.mp3');
      kickBass.play();
      break;
     case "s":
