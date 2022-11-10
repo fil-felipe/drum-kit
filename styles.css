@@ -21,11 +21,11 @@ footer {
 }
 
 .a {
-  background-image: url("/kick.png");
+  background-image: url("./kick.png");
 }
 
 .s {
-  background-image: url("./images/snare.png")
+  background-image: url("./drum-kit/images/snare.png")
 }
 
 /* .d {
