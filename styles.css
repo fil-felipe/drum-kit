@@ -25,7 +25,7 @@ footer {
 }
 
 .s {
-  background-image: url("../images/snare.png")
+  background-image: url("./images/snare.png")
 }
 
  .d {
@@ -37,11 +37,11 @@ footer {
 }
 
 .k {
-  background-image: url("../tom3.png");
+  background-image: url("./images/tom3.png");
 }
 
 .l {
-  background-image: url("..fil-felipe/drum-kit/images/tom4.png");
+  background-image: url("./images/tom4.png");
 } 
 
 .set {
