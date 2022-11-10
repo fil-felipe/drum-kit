@@ -25,7 +25,7 @@ function makeSound(key) {
      kickBass.play();
      break;
     case "s":
-     var snare = new Audio("./sounds/snare.mp3");
+     var snare = new Audio("./drum-kit/sounds/snare.mp3");
      snare.play();
      break;
 //     case "d":
