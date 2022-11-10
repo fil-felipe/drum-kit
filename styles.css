@@ -28,10 +28,11 @@ footer {
   background-image: url("./drum-kit/images/snare.png")
 }
 
-/* .d {
-  background-image: url("/images/tom1.png");
+ .d {
+  background-image: url("./images/tom1.png");
 }
 
+/*
 .j {
   background-image: url("/images/tom2.png");
 }
