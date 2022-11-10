@@ -28,10 +28,10 @@ function makeSound(key) {
      var snare = new Audio("./drum-kit/sounds/snare.mp3");
      snare.play();
      break;
-//     case "d":
-//      var tom1 = new Audio("/sounds/tom-1.mp3");
-//      tom1.play();
-//      break;
+    case "d":
+     var tom1 = new Audio("./sounds/tom-1.mp3");
+     tom1.play();
+     break;
 //     case "j":
 //      var tom2 = new Audio("/sounds/tom-2.mp3");
 //      tom2.play();
