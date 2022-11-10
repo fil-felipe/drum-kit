@@ -17,7 +17,7 @@ document.addEventListener("keydown", function(event) {
 function makeSound(key) {
   switch (key) {
     case "w":
-     var crash = new Audio("sounds/crash.mp3");
+     var crash = new Audio("./sounds/crash.mp3");
      crash.play();
      break;
     case "a":
